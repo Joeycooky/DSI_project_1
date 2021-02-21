@@ -50,7 +50,7 @@ Generally, students took the standardized test at the state where they lived -- 
 
 >![significant_change](https://github.com/Joeycooky/DSI_project_1/blob/main/images/significant_change.png)
 
-Entering into testing contracts with states education department seems to be best short-term strategy, since it can immediately boost the numbers of test taker. However it might not be a sustainable solution
+Entering into testing contracts with states education department seems to be best short-term strategy, since it can immediately boost the numbers of test taker(take Illinois Colorado and West Virginia as an example). However it might not be a sustainable solution
 
 >![household_income](https://github.com/Joeycooky/DSI_project_1/blob/main/images/household_income.png)
 
