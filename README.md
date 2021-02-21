@@ -44,18 +44,18 @@ After leading the standardized test market for long times, SAT have lost its com
 
 ### Executive Summary
 
-img1_dominant state
+https://github.com/Joeycooky/DSI_project_1/blob/main/images/dominant_state.png
 
 Generally, students took the standardized test at the state where they lived -- the SAT is strongest on the coasts and the ACT in the Midwest and the South. Nevertheless, there are some relevant factors affecting the participation rate of SAT.
 
-img2_significant Change
+https://github.com/Joeycooky/DSI_project_1/blob/main/images/significant_change.png
 
 Entering into testing contracts with states education department seems to be best short-term strategy, since it can immediately boost the numbers of test taker. However it might not be a sustainable solution
 
-img3_income
+https://github.com/Joeycooky/DSI_project_1/blob/main/images/household_income.png
 Income of the family might be the biggest barrier preventing high school graduate from taking SAT; therefore, to gain SAT popularity back, we should provide a fee waiver/ financial aids and a free subscription to preparation courses to student with financial hardship
 
-img4_com
+https://github.com/Joeycooky/DSI_project_1/blob/main/images/computer_internet.png
 Presently, SAT is too conservative and still relies on paper-based test. It would be great if SAT can deploys computer-based test in the future, since majority of SAT takers were already have access to the facilities.
 For lower median household income states, College Board should consider arranging a computer delivery test in addition to the regularly arranged SAT School day.
 
