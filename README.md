@@ -4,7 +4,7 @@
 
 After leading the standardized test market for long times, SAT have lost its competitiveness and finally lose its position to ACT in 2012.
 
-<h5>“ This project aims to explore trends in SAT and ACT participation across different states in the US and seeks to identify significant factors contributing to the participation rate to find appropriate strategies to regain SAT position to be the market leader again ”</h5>
+<h3>“ This project aims to explore trends in SAT and ACT participation across different states in the US and seeks to identify significant factors contributing to the participation rate to find appropriate strategies to regain SAT position to be the market leader again ”</h3>
 
 
 
